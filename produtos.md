@@ -27,6 +27,7 @@ Bolabi - Bola Bifermento
 - Conservação media a boa
 - Um pão do dia-dia com digestibilidade media, fofinho com uma expansão estável, e um sabor sutil do fermento natural.
 ![Detail da crosta de um pão bola]({% link images/detail-bola.jpg %}) 
+
 ---
 
 Grain - Grande Integral Intenso
@@ -81,4 +82,5 @@ Baguette - Baguette de fermentação 100% natural
 - Conservação muito boa
 - Um pão para amadores com digestibilidade alta, expansão moderada, e um sabor de fermento natural. 
 ![Crosta de Baguette]({% link images/baguette-2.jpg %})
+
 --- 
