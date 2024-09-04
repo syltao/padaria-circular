@@ -1,8 +1,20 @@
 ---
-title: Accueil
+title: "Bemvindo"
 order: 0
+in_menu: true
+---
+# Padaria Circular
+
+Trabalhamos quando disposto, principalmente por encomendas e pela vizinhança.
+
+Os fermentos naturais (levain) são locais.
+
+A farinha integral é sempre orgânica, vêm da cooperativa Gebana* do Paraná.
+
+A farinha branca é uma premium ou a branca orgânica da Gebana que priorizamos. O cliente esta informado.
+
+O sal é marinho. 
+
 ---
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+* História da cooperativa Gebana [](https://www.gebana.com.br/nossahistoria/). 
