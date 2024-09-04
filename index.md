@@ -5,6 +5,8 @@ in_menu: true
 ---
 # Padaria Circular
 
+> A nobreza do pão autêntico para suas papilas.
+
 Trabalhamos quando disposto, principalmente por encomendas e pela vizinhança.
 
 Os fermentos naturais (levain) são locais.
@@ -17,4 +19,4 @@ O sal é marinho.
 
 ---
 
-* História da cooperativa Gebana [](https://www.gebana.com.br/nossahistoria/). 
+* [História da cooperativa Gebana](https://www.gebana.com.br/nossahistoria/). 
