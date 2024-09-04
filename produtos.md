@@ -8,9 +8,9 @@ Todos os pães são produzidos com disposição.
 
 ## Pães
 # Bolabi Balanço
-> Um pão para descobrir a fermentação natural
-
 ![Par de bolas]({% link images/bola-1.jpg %})
+
+> Um pão para descobrir a fermentação natural
 - 8 Rs *promoção*
 - 380-390g
 - com fermento biológico e fermento natural
@@ -20,6 +20,7 @@ Todos os pães são produzidos com disposição.
 ![Detail da crosta de um pão bola]({% link images/detail-bola.jpg %}) 
 
 # DIL : Deep Integral Large
+![Deep-integral-Large]({% link images/DIL-1.jpg %})
 > Um pão intenso para os amadores de fermentação natural
 - 25 Rs
 - 840 g
