@@ -24,3 +24,5 @@ Cookies cacaococo
 
 Pão de aveia
 === 
+
+- 670g 
