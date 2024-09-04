@@ -32,7 +32,9 @@ Grain - Grande Integral Intenso
 - Farinha integral orgânica 50%, Farinha branca premium 50%. Sob encomenda pode ser mais o menos.
 - Conservação muito boa
 - Um pão para amadores com digestibilidade alta, expansão moderada, e um sabor intensa do fermento natural. 
+
 ---
+
 Peqin - Pequeno Integral Intenso
 =======================
 ![Pequeno Integral Intenso]({% link images/pequin-1.jpg %})
@@ -44,7 +46,9 @@ Peqin - Pequeno Integral Intenso
 - Farinha integral orgânica 50%, Farinha branca premium 50%. 
 - Conservação muito boa
 - Um pão para amadores com digestibilidade alta, expansão moderada, e um sabor intensa do fermento natural. 
+
 ---
+
 Bioger - Fermento bio e gergelim
 =======================
 ![Bioger]({% link images/bioger-1.jpg %})
