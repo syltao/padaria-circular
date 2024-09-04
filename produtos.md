@@ -15,7 +15,7 @@ Todos os pães são produzidos com disposição.
 | Preço | 8 | 26 | 14 | 14 | 5 |
 
 
-Bolabi - Bola Bi-fermento
+Bolabi - Bola Bifermento
 =================
 ![Par de bolas]({% link images/bola-1.jpg %})
 
