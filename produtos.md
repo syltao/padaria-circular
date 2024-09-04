@@ -7,17 +7,23 @@ Lista dos pães produzidos.
 Todos os pães são produzidos com disposição. 
 
 ## Pães
-# Bola bi Balanço
+# Bolabi Balanço
+> Um pão para descobrir a fermentação natural
 
 ![Par de bolas]({% link images/bola-1.jpg %})
 - 8 Rs *promoção*
 - 380-390g
 - com fermento biológico e fermento natural
-
 - Farinha integral orgânica 20%, Farinha branca premium 80%
-
 - Conservação media a boa
-
-- Um pão do diadia com digestibilidade media, fofinho com uma expansion estável, e um sabor subtil do fermento natural.
-
+- Um pão do dia-dia com digestibilidade media, fofinho com uma expansão estável, e um sabor sutil do fermento natural.
 ![Detail da crosta de um pão bola]({% link images/detail-bola.jpg %}) 
+
+# DIL : Deep Integral Large
+> Um pão intenso para os amadores de fermentação natural
+- 25 Rs
+- 840 g
+- Puro fermento natural, fermentação lenta
+- Farinha integral orgânica 50%, Farinha branca premium 50%. Sob encomenda pode ser mais o menos.
+- Conservação muito boa
+- Um pão para amadores com digestibilidade alta, expansão moderada, e um sabor intensa do fermento natural. 
