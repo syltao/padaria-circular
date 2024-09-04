@@ -7,6 +7,14 @@ in_menu: true
 
 Todos os pães são produzidos com disposição. 
 
+| Nome | Bolabi | Grain | Pequin | Bioger | Baguette |
+|---|---|---|---|---|---|
+| Peso (g) | 380 | 840 | 415 | 670 | ? |
+|    Fermentação | Bio e Natural | Natural | Natural | Biologico | Natural |
+|  Conservação | media | longa | longa | curta | longa |
+| Preço | 8 | 26 | 14 | 14 | 5 |
+
+
 Bolabi - Bola Bi-fermento
 =================
 ![Par de bolas]({% link images/bola-1.jpg %})
@@ -60,3 +68,17 @@ Bioger - Fermento bio e gergelim
 - Gergelim torado moído
 - Conservação curta (Max 48h, conservar na geladeira ou fatiado et congelado). 
 - Um pão de forma com sabor intensa de gergelim, de digestibilidade media, expansão alta, para coquetéis, ou comer com patê, pastas vegetais (humus, baba ganoush, ...). 
+
+Baguette - Baguette de fermentação 100% natural 
+=======================
+![Baguette]({% link images/baguette-1.jpg %})
+
+> Uma baguette curta du pura fermentação natural 
+- 5 Rs
+- ? g
+- Puro fermento natural, fermentação lenta
+- Farinha integral orgânica 10%, Farinha branca premium 90%. 
+- Conservação muito boa
+- Um pão para amadores com digestibilidade alta, expansão moderada, e um sabor de fermento natural. 
+![Crosta de Baguette]({% link images/baguette-2.jpg %})
+--- 
