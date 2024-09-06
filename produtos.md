@@ -17,7 +17,7 @@ Todos os pães são produzidos com disposição.
 
 Bolabi - Bola Bifermento
 =================
-![Par de bolas]({% link images/bola-1.jpg %})
+![Par de bolabis]({% link images/bola-1.jpg %})
 
 > Um pão para descobrir a fermentação natural
 - 8 Rs *promoção*
