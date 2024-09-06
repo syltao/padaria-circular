@@ -5,6 +5,7 @@ in_menu: true
 ---
 # Padaria Circular
 
+![Pão bola]({% link images/bola-acc.jpg %})
 > A nobreza do pão autêntico para suas papilas.
 
 Trabalhamos quando disposto, principalmente por encomendas e pela vizinhança.
