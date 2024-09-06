@@ -3,7 +3,7 @@ title: "Contato"
 order: 4
 in_menu: true
 ---
-Por whatsapp [whatsapp](https://wa.me/5581999555858)
+Por [whatsapp](https://wa.me/5581999555858)
 
 ![Gato IA comendo pão]({% link images/chat-pain-NB.jpeg %})
 
