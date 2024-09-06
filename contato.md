@@ -1,6 +1,6 @@
 ---
 title: "Contato"
-order: 2
+order: 4
 in_menu: true
 ---
 Por whatsapp [whatsapp](https://wa.me/5581999555858)

@@ -1,6 +1,6 @@
 ---
 title: "Produtos especiais"
-order: 4
+order: 3
 in_menu: true
 ---
 Massa de pizza com fermento natural
