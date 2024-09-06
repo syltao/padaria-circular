@@ -3,8 +3,8 @@ title: "Contato"
 order: 2
 in_menu: true
 ---
-Por whatsapp, no numero de sempre
+Por whatsapp [whatsapp](https://wa.me/5581999555858)
 
-![Texte décrivant l'image]({% link images/chat-pain-NB.jpeg %})
+![Gato IA comendo pão]({% link images/chat-pain-NB.jpeg %})
 
-Pour nous contacter : [contato@yepca.fr](mailto:contato@yepca.fr) 
+Ou por email : [e-mail](mailto:q4eqjb32v@mozmail.com) 
