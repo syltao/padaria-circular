@@ -9,7 +9,7 @@ Todos os pães são produzidos com disposição.
 
 | Nome | Bolabi | Grain | Pequin | Bioger | Baguette |
 |---|---|---|---|---|---|
-| Peso (g) | 380 | 840 | 415 | 670 | ? |
+| Peso (g) | 390 | 840 | 415 | 670 | 405 |
 |    Fermentação | Bio e Natural | Natural | Natural | Biologico | Natural |
 |  Conservação | media | longa | longa | curta | longa |
 | Preço | 8 | 26 | 14 | 14 | 5 |
@@ -21,7 +21,7 @@ Bolabi - Bola Bifermento
 
 > Um pão para descobrir a fermentação natural
 - 8 Rs *promoção*
-- 380-390g
+- 382-395g
 - com fermento biológico e fermento natural
 - Farinha integral orgânica 20%, Farinha branca premium 80%
 - Conservação media a boa
@@ -76,7 +76,7 @@ Baguette - Baguette de fermentação 100% natural
 
 > Uma baguette curta du pura fermentação natural 
 - 5 Rs
-- ? g
+- 200-220 g
 - Puro fermento natural, fermentação lenta
 - Farinha integral orgânica 10%, Farinha branca premium 90%. 
 - Conservação muito boa
