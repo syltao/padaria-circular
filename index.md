@@ -3,6 +3,11 @@ title: "Bemvindo"
 order: 0
 in_menu: true
 ---
+<head>
+  <title>Bemvindo</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+
 # Padaria Circular
 
 ![Pão bola]({% link images/bola-acc.jpg %})
