@@ -75,7 +75,7 @@ Baguette - Baguette de fermentação 100% natural
 ![Baguette]({% link images/baguette-1.jpg %})
 
 > Uma baguette curta du pura fermentação natural 
-- 5 Rs
+- 6,5 Rs
 - 200-220 g
 - Puro fermento natural, fermentação lenta
 - Farinha integral orgânica 10%, Farinha branca premium 90%. 
