@@ -9,7 +9,7 @@ Todos os pães são produzidos com disposição.
 
 | Nome | Bolabi | Grain | Pequin | Bioger | Baguette |
 |---|---|---|---|---|---|
-| Peso (g) | 390 | 840 | 415 | 670 | 405 |
+| Peso (g) | 390 | 840 | 415 | 670 | 205 |
 |    Fermentação | Bio e Natural | Natural | Natural | Biologico | Natural |
 |  Conservação | media | longa | longa | curta | longa |
 | Preço | 8 | 26 | 14 | 14 | 5 |
