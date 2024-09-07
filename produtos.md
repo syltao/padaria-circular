@@ -12,7 +12,7 @@ Todos os pães são produzidos com disposição.
 | Peso (g) | 390 | 840 | 415 | 670 | 205 |
 |    Fermentação | Bio e Natural | Natural | Natural | Biologico | Natural |
 |  Conservação | media | longa | longa | curta | longa |
-| Preço | 8 | 26 | 14 | 14 | 5 |
+| Preço | 8 | 26 | 14 | 14 | 6,5 |
 
 
 Bolabi - Bola Bifermento
