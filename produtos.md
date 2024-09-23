@@ -67,7 +67,7 @@ Bioger - Fermento bio e gergelim
 - Fermento biológico
 - Farinha integral orgânica 37%, Farinha branca premium 63%. 
 - Gergelim torado moído
-- Conservação curta (Max 48h, conservar na geladeira ou fatiado et congelado). 
+- Conservação curta (Max 48h, conservar na geladeira ou fatiado e congelado). 
 - Um pão de forma com sabor intensa de gergelim, de digestibilidade media, expansão alta, para coquetéis, ou comer com patê, pastas vegetais (humus, baba ganoush, ...). 
 
 Baguette - Baguette de fermentação 100% natural 
