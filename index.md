@@ -13,7 +13,7 @@ in_menu: true
 ![Pão bola]({% link images/bola-acc.jpg %})
 > A nobreza do pão autêntico para suas papilas.
 
-Trabalhamos quando disposto, principalmente por encomendas e pela vizinhança.
+Trabalhamos quando dispostos, principalmente por encomendas e pela vizinhança.
 
 Os fermentos naturais (levain) são locais.
 
